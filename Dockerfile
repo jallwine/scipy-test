@@ -1,6 +1,6 @@
 FROM jupyter/scipy-notebook:6399d2faf16f
 
-# Launchbot labels
+# Launchbot labels asdasdfasdf
 LABEL name.launchbot.io="scipy"
 LABEL workdir.launchbot.io="/usr/workdir"
 LABEL 8888.port.launchbot.io="Jupyter Notebook"
